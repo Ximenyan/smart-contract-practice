@@ -12,6 +12,10 @@ Cocos-BCX为了合约的公开和透明性，源代码直接部署到链上。�
 
 [回滚攻击](/report/Rollback-Attack.md)
 
+[权限验证](/report/Permission-Verify.md)
+
+[数值校验](/report/Numerical-Validation.md)
+
 
 
 ## 开发技巧
